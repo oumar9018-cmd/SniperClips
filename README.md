@@ -21,6 +21,12 @@ It finds the hook, cuts the complete thought, burns word-by-word captions, refra
 
 ---
 
+## 🌐 Website
+
+**[oumar9018-cmd.github.io/SniperClips](https://oumar9018-cmd.github.io/SniperClips/)** — the SniperClips website: paste a link, get 5 clips, customise captions and download. No login, no credits.
+
+> Status: the website's design is live in this repo (`docs/`) — dark pro-studio look, full English, rich clip customisation (7 caption styles, size, position, colours, crop mode, music). The clipping engine below connects to it next; until then the page is a design preview.
+
 ## 🔥 Why SniperClips exists
 
 The big clipping tools charge **$15–29/month**, burn your money in "credits" for clips you throw away, and hide their picks behind a magic "virality score" that independent testing found **uncalibrated** — in one 30-day test, a tool's best-performing clip scored **64** and its weakest **87**.
@@ -89,7 +95,7 @@ link ──► download (yt-dlp)
 ## 🗺️ Roadmap
 
 - **v3** — face-cam aware crop · Roman-Hinglish caption transliteration · outro/CTA penalty · auto titles + hashtags
-- **v4** — a simple web page: paste a link in the browser, download your clips
+- **v4** — the website: design preview is in (`docs/`) · next: connect the engine so a pasted link returns real clips in the browser
 
 ## ⚠️ Honest limitations
 
