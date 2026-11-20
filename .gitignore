@@ -1,0 +1,17 @@
+# Python virtualenv — har machine par dobara banta hai, repo me nahi jata
+venv/
+__pycache__/
+*.pyc
+
+# Test video + uske transcripts — 69 MB source, repo me nahi jata
+test_src.mp4
+*.transcript*.json
+*.words*.json
+
+# Run logs
+*.log
+
+# Bane hue clips — demo ke liye alag se release me jayenge, repo me nahi
+clips/*.mp4
+clips/*.srt
+clips/*.jpg

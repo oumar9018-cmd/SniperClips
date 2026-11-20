@@ -1,0 +1,7 @@
+# ClipForge v2 — tested versions (2026-11-20)
+# System par ffmpeg alag se chahiye: apt install ffmpeg (ya brew install ffmpeg)
+faster-whisper==1.2.1
+yt-dlp==2026.10.26
+av==12.3.0
+numpy==2.5.5
+tqdm==4.70.1
