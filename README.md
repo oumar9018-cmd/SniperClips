@@ -25,7 +25,7 @@ It finds the hook, cuts the complete thought, burns word-by-word captions, refra
 
 **[oumar9018-cmd.github.io/SniperClips](https://oumar9018-cmd.github.io/SniperClips/)** — the SniperClips website: paste a link, get 5 clips, customise captions and download. No login, no credits.
 
-> Status: the website is live at the link above — dark pro-studio look, full English, rich clip customisation (7 caption styles, size, position, colours, crop mode, music). The clipping engine below connects to it next; until then the page is a design preview.
+> Status: the website is live at the link above — clean white look, full English, auto-detects language and category, built for 2–5 hour streams, rich clip customisation (7 caption styles, size, position, colours, crop mode, music). The clipping engine below connects to it next; until then the page is a design preview.
 
 ## 🔥 Why SniperClips exists
 
