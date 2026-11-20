@@ -15,8 +15,8 @@
 It finds the hook, cuts the complete thought, burns word-by-word captions, reframes to 9:16 — and <b>warns you before copyright does</b>.</p>
 
 <p align="center">
-  <img src="assets/demo.gif" alt="A real clip made by SniperClips from a Hindi GTA 6 video" width="270">
-  <br><i>A real clip, made by this tool, from a Hindi GTA 6 video. No edits by hand.</i>
+  <i>🎬 Real output: this tool has already cut clips from a Hindi GTA 6 video — hook title, captions, 1080×1920.<br>
+  Run it yourself and open <code>clips/index.html</code> to watch yours.</i>
 </p>
 
 ---
